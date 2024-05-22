@@ -1,0 +1,1 @@
+export const siteData = JSON.parse("{\"base\":\"/\",\"lang\":\"zh-CN\",\"title\":\"MoY画质助手\",\"description\":\"简单好用的游戏画质修改工具\",\"head\":[[\"link\",{\"rel\":\"icon\",\"href\":\"/images/logo.webp\"}]],\"locales\":{}}")
