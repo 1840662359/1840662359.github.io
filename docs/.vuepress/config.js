@@ -4,7 +4,7 @@ import { viteBundler } from '@vuepress/bundler-vite'
 
 export default defineUserConfig({
   lang: 'zh-CN',
-  title: 'MoY画质助手',
+  title: '吃鸡优化器',
   description: '简单好用的游戏画质修改工具',
   head: [
     [
@@ -13,7 +13,7 @@ export default defineUserConfig({
   ],
 
   theme: defaultTheme({
-    navbar: ['/', '/download', '/help'],
+    navbar: ['/', '/help'],
   }),
   bundler: viteBundler(),
 })
