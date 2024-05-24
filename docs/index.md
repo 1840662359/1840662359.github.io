@@ -11,7 +11,7 @@ features:
   - title: 简单
     details: 忘掉令人头疼的文件或代码，所有修改都是一键式的操作
   - title: 安全
-    details: 没有烦人的开屏摇一摇广告，也永远不会接入任何广告内容
+    details: 完全没有封号的风险，也不会对设备性能造成任何影响
   - title: 全能
     details: 支持目前主流的大部分安卓设备无root修改
 
