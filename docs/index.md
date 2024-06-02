@@ -4,7 +4,7 @@ title: 首页
 heroImage: /images/logo.webp
 actions:
   - text: 立即下载
-    link: https://www.123pan.com/s/epe3jv-sZJOd.html
+    link: https://gitee.com/qianlong323/qianlong323/raw/gh-pages/assets/%E5%90%83%E9%B8%A1%E4%BC%98%E5%8C%96%E5%99%A8.apk
     type: primary
 
 features:
