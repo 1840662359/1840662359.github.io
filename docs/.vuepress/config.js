@@ -13,7 +13,7 @@ export default defineUserConfig({
   ],
 
   theme: defaultTheme({
-    navbar: ['/', '/help', '/history'],
+    navbar: ['/', '/help'],
   }),
   bundler: viteBundler(),
 })
