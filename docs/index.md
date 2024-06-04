@@ -4,7 +4,7 @@ title: 首页
 heroImage: /images/logo.webp
 actions:
   - text: 立即下载
-    link: https://www.123pan.com/s/epe3jv-mqJOd.html
+    link: https://www.lanzouw.com/b004hkrxpi
     type: primary
 
 features:
