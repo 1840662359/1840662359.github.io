@@ -4,7 +4,7 @@ title: 首页
 heroImage: /images/logo.webp
 actions:
   - text: 立即下载
-    link: https://gitee.com/qianlong323/qianlong323/raw/gh-pages/assets/pubgturbo.apk
+    link: https://www.123pan.com/s/epe3jv-mqJOd.html
     type: primary
 
 features:
