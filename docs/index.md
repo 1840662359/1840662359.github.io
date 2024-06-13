@@ -4,7 +4,7 @@ title: 首页
 heroImage: /images/logo.webp
 actions:
   - text: 立即下载
-    link: https://www.lanzouw.com/b004hkrxpi
+    link: https://gitee.com/qianlong323/pubgturbo/releases/download/v33/app-release_v33.apk
     type: primary
 
 features:
