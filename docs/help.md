@@ -9,7 +9,7 @@ title: 使用帮助
 >
 > 建议优先选择**文件管理器**方式授权，如果不能授权再尝试**Shizuku**方式授权
 
-### 文件管理器授权
+### 使用文件管理器授权
 
 **第一步：**
 
@@ -31,7 +31,7 @@ title: 使用帮助
 
 <img src="/images/授权5.jpg" width = 288 height = 640>
 
-### Shizuku授权
+### 使用Shizuku授权
 
 [点此观看视频教程](https://v.youku.com/v_show/id_XNjM5Nzk2ODQyMA==.html)
 
