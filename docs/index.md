@@ -6,6 +6,10 @@ actions:
   - text: 立即下载
     link: https://gitee.com/qianlong323/qianlong323/releases/download/v33/app-release_v33.apk
     type: primary
+    
+  - text: 使用帮助
+    link: /help.md
+    type: second
 
 features:
   - title: 简单
