@@ -13,23 +13,23 @@ title: 使用帮助
 
 **第一步：**
 
-<img src="/images/授权1.jpg" width = 288 height = 640>
+<img src="https://img.picui.cn/free/2024/06/17/666f441d75a19.jpg" width = 288 height = 640>
 
 **第二步：**
 
-<img src="/images/授权2.jpg" width = 288 height = 640>
+<img src="https://img.picui.cn/free/2024/06/17/666f441d70d17.jpg" width = 288 height = 640>
 
 **第三步：**
 
-<img src="/images/授权3.jpg" width = 288 height = 640>
+<img src="https://img.picui.cn/free/2024/06/17/666f441d76e5f.jpg" width = 288 height = 640>
 
 **第四步：**
 
-<img src="/images/授权4.jpg" width = 288 height = 640>
+<img src="https://img.picui.cn/free/2024/06/17/666f441d3716c.jpg" width = 288 height = 640>
 
 **第五步：**
 
-<img src="/images/授权5.jpg" width = 288 height = 640>
+<img src="https://img.picui.cn/free/2024/06/17/666f441d6e22d.jpg" width = 288 height = 640>
 
 ### 使用Shizuku授权
 
