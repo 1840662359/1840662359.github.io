@@ -7,7 +7,7 @@ actions:
     link: https://www.123pan.com/s/epe3jv-hEIOd.html
     type: primary
     
-  - text: 使用帮助
+  - text: 使用教程
     link: /help.md
     type: second
 
