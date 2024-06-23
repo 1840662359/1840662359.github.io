@@ -8,7 +8,7 @@ actions:
     type: primary
 
   - text: 立即下载
-    link: https://gitee.com/qianlong323/qianlong323/releases/download/v33/app-release_v33.apk
+    link: https://gitee.com/qianlong323/qianlong323/releases/download/v34/app-release_v34.apk
     type: second
 
 features:
