@@ -8,7 +8,7 @@ actions:
     type: primary
 
   - text: 立即下载
-    link: https://gitee.com/qianlong323/qianlong323/releases/download/v34/app-release_v34.apk
+    link: https://www.lanzouw.com/i0aYJ22q17ji
     type: second
 
 features:
