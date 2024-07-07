@@ -34,7 +34,3 @@ title: 使用教程
 ### 使用Shizuku授权
 
 [点此观看视频教程](https://v.youku.com/v_show/id_XNjM5Nzk2ODQyMA==.html)
-
-## 修改教程
-
-[点此观看视频教程](https://v.youku.com/v_show/id_XNjQwNDY2MzU4MA==.html)
