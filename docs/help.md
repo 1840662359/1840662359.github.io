@@ -33,4 +33,8 @@ title: 使用教程
 
 ### 使用Shizuku授权
 
-[点此观看视频教程](https://v.youku.com/v_show/id_XNjM5Nzk2ODQyMA==.html)
+<iframe src="//player.bilibili.com/player.html?bvid=BV1f1421b7Xz&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+## 修改教程
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1Hb421n7Xc&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>

@@ -6,19 +6,18 @@
 </blockquote>
 <h3 id="使用文件管理器授权" tabindex="-1"><a class="header-anchor" href="#使用文件管理器授权"><span>使用文件管理器授权</span></a></h3>
 <p><strong>第一步：</strong></p>
-<img src="https://img.picui.cn/free/2024/06/17/666f441d76e5f.jpg" width = 288 height = 640>
+<img src="http://120.25.189.16:9999/view.php/b38807994ac10c7c0c62e3025bac5aa6.jpg" width = 288 height = 640>
 <p><strong>第二步：</strong></p>
-<img src="https://img.picui.cn/free/2024/06/17/666f441d70d17.jpg" width = 288 height = 640>
+<img src="http://120.25.189.16:9999/view.php/2f59c0506647c70ac0f2ab8b9eb2df23.jpg" width = 288 height = 640>
 <p><strong>第三步：</strong></p>
-<img src="https://img.picui.cn/free/2024/06/17/666f441d75a19.jpg" width = 288 height = 640>
+<img src="http://120.25.189.16:9999/view.php/b71212f1dece219c30e2dc7b9cca129a.jpg" width = 288 height = 640>
 <p><strong>第四步：</strong></p>
-<img src="https://img.picui.cn/free/2024/06/17/666f441d6e22d.jpg" width = 288 height = 640>
+<img src="http://120.25.189.16:9999/view.php/ec23f898fd8f7c7803e40d596079c808.jpg" width = 288 height = 640>
 <p><strong>第五步：</strong></p>
-<img src="https://img.picui.cn/free/2024/06/17/666f441d3716c.jpg" width = 288 height = 640>
+<img src="http://120.25.189.16:9999/view.php/bd997df7b07bdf55bf0c33155c4fd316.jpg" width = 288 height = 640>
 <h3 id="使用shizuku授权" tabindex="-1"><a class="header-anchor" href="#使用shizuku授权"><span>使用Shizuku授权</span></a></h3>
-<p><a href="https://v.youku.com/v_show/id_XNjM5Nzk2ODQyMA==.html" target="_blank" rel="noopener noreferrer">点此观看视频教程</a></p>
+<iframe src="//player.bilibili.com/player.html?bvid=BV1f1421b7Xz&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 <h2 id="修改教程" tabindex="-1"><a class="header-anchor" href="#修改教程"><span>修改教程</span></a></h2>
-<p><a href="https://v.youku.com/v_show/id_XNjQwNDY2MzU4MA==.html" target="_blank" rel="noopener noreferrer">点此观看视频教程</a></p>
-</div></template>
+<iframe src="//player.bilibili.com/player.html?bvid=BV1Hb421n7Xc&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></div></template>
 
 
