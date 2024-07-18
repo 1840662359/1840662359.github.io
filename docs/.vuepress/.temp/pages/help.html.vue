@@ -1,23 +1,38 @@
-<template><div><nav class="table-of-contents"><ul><li><router-link to="#授权教程">授权教程</router-link><ul><li><router-link to="#使用文件管理器授权">使用文件管理器授权</router-link></li><li><router-link to="#使用shizuku授权">使用Shizuku授权</router-link></li></ul></li><li><router-link to="#修改教程">修改教程</router-link></li></ul></nav>
-<h2 id="授权教程" tabindex="-1"><a class="header-anchor" href="#授权教程"><span>授权教程</span></a></h2>
+<template><div><p>教程目录：</p>
+<nav class="table-of-contents"><ul><li><router-link to="#【授权教程】">【授权教程】</router-link><ul><li><router-link to="#使用文件管理器授权">使用文件管理器授权</router-link></li><li><router-link to="#使用shizuku授权">使用Shizuku授权</router-link></li></ul></li><li><router-link to="#【修改教程】">【修改教程】</router-link></li><li><router-link to="#【常见问题】">【常见问题】</router-link><ul><li><router-link to="#为什么软件里保存后-游戏里没有生效">为什么软件里保存后，游戏里没有生效？</router-link></li><li><router-link to="#为什么软件里开启了超广角-游戏里视野没有变化">为什么软件里开启了超广角，游戏里视野没有变化？</router-link></li><li><router-link to="#为什么跳伞落地后-超广角视野效果就没了">为什么跳伞落地后，超广角视野效果就没了？</router-link></li><li><router-link to="#卡密为什么激活一次后就用不了了">卡密为什么激活一次后就用不了了？</router-link></li></ul></li></ul></nav>
+<h2 id="【授权教程】" tabindex="-1"><a class="header-anchor" href="#【授权教程】"><span>【授权教程】</span></a></h2>
 <blockquote>
 <p>优化器支持两种授权方式，选择任意一种方式完成授权即可使用</p>
 <p>建议优先选择<strong>文件管理器</strong>方式授权，如果不能授权再尝试<strong>Shizuku</strong>方式授权</p>
 </blockquote>
 <h3 id="使用文件管理器授权" tabindex="-1"><a class="header-anchor" href="#使用文件管理器授权"><span>使用文件管理器授权</span></a></h3>
 <p><strong>第一步：</strong></p>
-<img src="http://120.25.189.16:9999/view.php/b38807994ac10c7c0c62e3025bac5aa6.jpg" width = 288 height = 640>
+<p><img src="https://s3.bmp.ovh/imgs/2024/07/19/9f7103a0fa4309e7.jpg" alt="9814bf82f3696a96.jpg"></p>
 <p><strong>第二步：</strong></p>
-<img src="http://120.25.189.16:9999/view.php/2f59c0506647c70ac0f2ab8b9eb2df23.jpg" width = 288 height = 640>
+<p><img src="https://s3.bmp.ovh/imgs/2024/07/19/bab14506547f21a6.jpg" alt="dc82b4bcaea6fc41.jpg"></p>
 <p><strong>第三步：</strong></p>
-<img src="http://120.25.189.16:9999/view.php/b71212f1dece219c30e2dc7b9cca129a.jpg" width = 288 height = 640>
+<p><img src="https://s3.bmp.ovh/imgs/2024/07/19/b99029eebddc8503.jpg" alt="6701f820f867a357.jpg"></p>
 <p><strong>第四步：</strong></p>
-<img src="http://120.25.189.16:9999/view.php/ec23f898fd8f7c7803e40d596079c808.jpg" width = 288 height = 640>
+<p><img src="https://s3.bmp.ovh/imgs/2024/07/19/ee28fb264ba23ed9.jpg" alt="a939a478bd77fc9b.jpg"></p>
 <p><strong>第五步：</strong></p>
-<img src="http://120.25.189.16:9999/view.php/bd997df7b07bdf55bf0c33155c4fd316.jpg" width = 288 height = 640>
+<p><img src="https://s3.bmp.ovh/imgs/2024/07/19/71c8f6d90ddcde0e.jpg" alt="821ea7cf690f88fb.jpg"></p>
 <h3 id="使用shizuku授权" tabindex="-1"><a class="header-anchor" href="#使用shizuku授权"><span>使用Shizuku授权</span></a></h3>
-<iframe src="//player.bilibili.com/player.html?bvid=BV1f1421b7Xz&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-<h2 id="修改教程" tabindex="-1"><a class="header-anchor" href="#修改教程"><span>修改教程</span></a></h2>
-<iframe src="//player.bilibili.com/player.html?bvid=BV1Hb421n7Xc&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></div></template>
+<p>请按下方视频教程的步骤进行操作</p>
+<iframe src="//player.bilibili.com/player.html?bvid=BV1f1421b7Xz&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="450"> </iframe>
+<h2 id="【修改教程】" tabindex="-1"><a class="header-anchor" href="#【修改教程】"><span>【修改教程】</span></a></h2>
+<p>请按下方视频教程的步骤进行操作</p>
+<iframe src="//player.bilibili.com/player.html?bvid=BV1Hb421n7Xc&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="450"> </iframe>
+<h2 id="【常见问题】" tabindex="-1"><a class="header-anchor" href="#【常见问题】"><span>【常见问题】</span></a></h2>
+<h3 id="为什么软件里保存后-游戏里没有生效" tabindex="-1"><a class="header-anchor" href="#为什么软件里保存后-游戏里没有生效"><span>为什么软件里保存后，游戏里没有生效？</span></a></h3>
+<p>解答：请确保您在软件里保存时，游戏已经关闭，且点击保存后软件提示了保存成功。</p>
+<p><img src="https://s3.bmp.ovh/imgs/2024/07/19/8bbcdf90f8f40d42.jpg" alt=""></p>
+<h3 id="为什么软件里开启了超广角-游戏里视野没有变化" tabindex="-1"><a class="header-anchor" href="#为什么软件里开启了超广角-游戏里视野没有变化"><span>为什么软件里开启了超广角，游戏里视野没有变化？</span></a></h3>
+<p>解答：软件里开启超广角视野后，请不要使用游戏里“基础设置”中的“云端方案”。</p>
+<p><img src="https://s3.bmp.ovh/imgs/2024/07/19/b9a2618cb69cf87a.jpg" alt=""></p>
+<h3 id="为什么跳伞落地后-超广角视野效果就没了" tabindex="-1"><a class="header-anchor" href="#为什么跳伞落地后-超广角视野效果就没了"><span>为什么跳伞落地后，超广角视野效果就没了？</span></a></h3>
+<p>解答：跳伞落地后，请点击一下游戏设置，再关闭，即可恢复超广角视野。</p>
+<h3 id="卡密为什么激活一次后就用不了了" tabindex="-1"><a class="header-anchor" href="#卡密为什么激活一次后就用不了了"><span>卡密为什么激活一次后就用不了了？</span></a></h3>
+<p>解答：激活卡密是一次性的，且与激活的设备相绑定。如您需要更换设备使用本软件，请先在已激活的设备上，打开软件进行解绑操作，然后再使用卡密激活新设备</p>
+</div></template>
 
 
