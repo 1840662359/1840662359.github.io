@@ -8,7 +8,7 @@ actions:
     type: primary
 
   - text: 立即下载
-    link: https://wwm.lanzouw.com/iK2192526c3g
+    link: https://wwm.lanzouw.com/i5Ouj25gbk8d
     type: second
 
 features:
