@@ -1,14 +1,17 @@
 ---
 head:
   - - meta
+    - name: description
+      content: 吃鸡优化器是一款简单好用的吃鸡画质助手。无需Root、无需电脑，可一键修改画质帧率超广角等效果。并且完全没有封号的风险，也不会对设备性能造成任何影响
+  - - meta
     - name: baidu-site-verification
       content: codeva-WHC42qMS0s
   - - meta
     - name: 360-site-verification
       content: 757442fdda9b8366081ca685439852d8
   - - meta
-    - name: description
-      content: 吃鸡优化器是一款简单好用的吃鸡画质助手。无需Root、无需电脑，可一键修改画质帧率超广角等效果。并且完全没有封号的风险，也不会对设备性能造成任何影响
+    - name: sogou_site_verification
+      content: ujWxVVSjl8
 home: true
 title: 首页
 heroImage: /images/logo.webp
