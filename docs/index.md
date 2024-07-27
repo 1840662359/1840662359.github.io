@@ -1,4 +1,8 @@
 ---
+head:
+  - - meta
+    - name: baidu-site-verification
+      content: codeva-WHC42qMS0s
 home: true
 title: 首页
 heroImage: /images/logo.webp
