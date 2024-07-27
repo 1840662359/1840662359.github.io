@@ -11,7 +11,7 @@ head:
       content: 757442fdda9b8366081ca685439852d8
   - - meta
     - name: sogou_site_verification
-      content: ujWxVVSjl8
+      content: 6RbphReRms
 home: true
 title: 首页
 heroImage: /images/logo.webp
