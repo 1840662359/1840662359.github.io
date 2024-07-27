@@ -7,7 +7,7 @@ import { sitemapPlugin } from '@vuepress/plugin-sitemap'
 export default defineUserConfig({
   lang: 'zh-CN',
   title: '吃鸡优化器',
-  description: '吃鸡优化器是一款简单好用的游戏画质助手。无需Root、无需电脑，可一键修改画质帧率超广角等效果。并且完全没有封号的风险，也不会对设备性能造成任何影响',
+  description: '简单好用的吃鸡画质助手',
   head: [
     [
         'link', { rel: 'icon', href: '/images/logo.webp' }
@@ -20,7 +20,7 @@ export default defineUserConfig({
   bundler: viteBundler(),
   plugins: [
     seoPlugin({
-      hostname: 'https://pubgturbo.cn'
+      hostname: 'https://pubgturbo.cn', autoDescription: 'false'
     }),
     sitemapPlugin({
       hostname: 'https://pubgturbo.cn'
