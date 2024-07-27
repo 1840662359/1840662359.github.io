@@ -3,6 +3,9 @@ head:
   - - meta
     - name: baidu-site-verification
       content: codeva-WHC42qMS0s
+  - - meta
+    - name: 360-site-verification
+      content: 757442fdda9b8366081ca685439852d8
 home: true
 title: 首页
 heroImage: /images/logo.webp
