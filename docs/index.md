@@ -21,7 +21,7 @@ actions:
     type: primary
 
   - text: 立即下载
-    link: https://wwm.lanzouw.com/iudNL267u78b
+    link: https://wwm.lanzouw.com/iCKY726je1be
     type: second
 
 features:
