@@ -40,9 +40,7 @@ title: 使用教程
 
 ## 【修改教程】
 
-### 完整修改视频流程
-
-<iframe src="//player.bilibili.com/player.html?bvid=BV1Hb421n7Xc&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="450"> </iframe>
+<iframe src="//player.bilibili.com/player.html?bvid=BV11upKe6E7A&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="450"> </iframe>
 
 
 ## <font color="red">【常见问题】</font>
