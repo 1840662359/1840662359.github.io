@@ -21,7 +21,7 @@ actions:
     type: primary
 
   - text: 立即下载
-    link: https://cloud.pubgturbo.cn/down.php/f5ec83b7db9a16f8a1989eee1a28ff6e.apk
+    link: https://wwwj.lanzouw.com/i856H2977yza
     type: second
 
 features:
