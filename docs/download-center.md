@@ -2,7 +2,7 @@
 title: 下载
 ---
 
-[正式版v48下载](https://wwwj.lanzouw.com/iTUtl29jm3wd)
+[正式版v48下载](https://wwwj.lanzouw.com/iKXW72a0m0uf)
 
 v48版本更新日志：
 
