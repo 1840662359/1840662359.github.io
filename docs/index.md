@@ -21,7 +21,7 @@ actions:
     type: primary
 
   - text: 立即下载
-    link: https://wwwj.lanzouw.com/b004hmvc4h
+    link: /download-center.md
     type: second
 
 features:

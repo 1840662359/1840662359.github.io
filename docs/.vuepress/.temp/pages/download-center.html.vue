@@ -1,7 +1,15 @@
-<template><div><p><a href="https://wwwj.lanzouw.com/iKXW72a0m0uf" target="_blank" rel="noopener noreferrer">正式版v48下载</a></p>
-<p>v48版本更新日志：</p>
-<p>1.修复EC模式下HDR画质无法开启的问题</p>
-<p>2.优化手机上修改后的流畅性</p>
+<template><div><h2 id="版本信息" tabindex="-1"><a class="header-anchor" href="#版本信息"><span>版本信息</span></a></h2>
+<ul>
+<li>最新版本：v50</li>
+<li>发布时间：2024-10-12</li>
+</ul>
+<p><a href="https://wwwj.lanzouw.com/inVjU2cbzykf" target="_blank" rel="noopener noreferrer">&gt;&gt;下载地址</a></p>
+<h2 id="更新日志" tabindex="-1"><a class="header-anchor" href="#更新日志"><span>更新日志：</span></a></h2>
+<ul>
+<li>修复部分设备上修改后键位偏移的问题</li>
+<li>移除包内无用资源</li>
+<li>优化读写逻辑</li>
+</ul>
 </div></template>
 
 
