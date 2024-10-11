@@ -8,6 +8,7 @@ export default defineUserConfig({
   lang: 'zh-CN',
   title: '吃鸡优化器',
   description: '简单好用的吃鸡画质助手',
+
   head: [
     [
         'link', { rel: 'icon', href: '/images/logo.webp' }
@@ -15,9 +16,15 @@ export default defineUserConfig({
   ],
 
   theme: defaultTheme({
+    hostname: 'https://pubgturbo.cn',
+    home: 'https://pubgturbo.cn',
+    lastUpdated: false,
+    contributors: false,
     navbar: ['/', '/help'],
   }),
+
   bundler: viteBundler(),
+  
   plugins: [
     seoPlugin({
       hostname: 'https://pubgturbo.cn', autoDescription: 'false'
